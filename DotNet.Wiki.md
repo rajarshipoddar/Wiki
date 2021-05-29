@@ -8,3 +8,6 @@ https://source.dot.net/
 
 ## Source Samples
 https://docs.microsoft.com/en-us/samples/browse/
+
+## Ebooks
+https://github.com/dotnet-architecture/eBooks
